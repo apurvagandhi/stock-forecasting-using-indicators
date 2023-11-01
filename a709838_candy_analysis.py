@@ -11,7 +11,6 @@ import yfinance as yf
 '''
 Code implementing indicators as functions that operate on DataFrames.
 Name: Apurva Gandhi
-Purpose: Fidelity Datathon 2023
 '''
 # Helper Function
 def calculate_rolling_mean(values, window_size):
